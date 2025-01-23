@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("XinChao");
+            Console.WriteLine("XinChao"); 
+            Console.WriteLine("chao lan nua");
+            Console.WriteLine("chao lan nua"); Console.WriteLine("chao lan nua");
+            Console.WriteLine("abcd12345");
         }
     }
 }
